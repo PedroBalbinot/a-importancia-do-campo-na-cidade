@@ -9,12 +9,13 @@
 body{ 
 
   background-image: url(img/image\ 1.png);
-  background-color: black;
+
 
 }
 .banner{ 
 
-width:numero aq ;
+width:;
 background-color: black;
 color:var(--cor--de--fonte);
+font-size: 12px;
 }
