@@ -3,13 +3,13 @@
 :root{
   --cor--de--fonte: #FFFFFF;
   --cor--de--titulo: #FAFF00;
-  --cor--de--cabecalho:#000000;
+  --cor--de--cabecalho:#dd4646;
 }
 
 body{ 
 
   background-image: url(img/image\ 1.png);
-
+  background-color: black;
 
 }
 .banner{ 
