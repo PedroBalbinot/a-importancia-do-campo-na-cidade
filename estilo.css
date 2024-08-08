@@ -15,6 +15,6 @@ body{
 .banner{ 
 
 width:numero aq ;
-background-color: darkcyan;
+background-color: gray;
 color:var(--cor--de--fonte);
 }
