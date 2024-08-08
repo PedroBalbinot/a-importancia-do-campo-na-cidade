@@ -16,4 +16,5 @@ body{
 
 width:numero aq ;
 background-color: darkcyan;
+color:var(--cor--de--fonte);
 }
