@@ -12,3 +12,16 @@ background-color: black;
    background-image: url(../img/barra.png);
 
 }
+
+.lista-menu{
+   display: none;
+
+}
+
+.cabeclho--botao:checked ~.lista-menu{
+   display: block;
+}
+
+.cabecalho--botao{
+   display: none;
+}
