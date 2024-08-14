@@ -28,7 +28,7 @@ background-color: black;
 
 }
 
-.cabeclho--botao:checked ~.lista-menu{
+.cabeclho--botao:checked ~ .lista-menu{
    display: block;
 }
 
