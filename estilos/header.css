@@ -10,6 +10,10 @@ background-color: black;
    
 .cabecalho--menu--hamburger{
    background-image: url(../img/barra.png);
+   display: inline-block;
+   background-repeat: no-repeat;
+   background-position: center;
+   
 
 }
 
