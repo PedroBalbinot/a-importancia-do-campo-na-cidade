@@ -14,8 +14,6 @@ body{
 
 }
 .banner{ 
-
-width: 10px;
 background-color: black;
 color:var(--cor--de--fonte);
 font-size: 16px;
