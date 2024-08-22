@@ -3,13 +3,17 @@ margin: 20px;
 background-color: black;
 
 }
-.cabecalho--home{
+.cabecalho{
 
    color: var(--cor--de--fonte);
    background-color: var(--cor--de--cabecalho);
    display: flex;
    justify-content: space-between;
    border-radius: 10px;
+}
+
+.cabecalho--home{
+   margin: 9px;
 }
    
 .cabecalho--menu--hamburger{
