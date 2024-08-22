@@ -5,10 +5,9 @@ background-color: black;
 .cabecalho{
 
    color: var(--cor--de--fonte);
-   background-color: var(--cor--de--cabecalho);
    display: flex;
    justify-content: space-between;
-   border-radius: 10px;
+  
 }
 
 .cabecalho--home{
