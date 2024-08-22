@@ -17,7 +17,7 @@
 .cabecalho--menu--hamburger{
    background-image: url(../img/barra.png);
    display: block;
-   display: inline-block;
+   background-position: center;
    background-repeat: no-repeat;
    height: 25px;
    width: 25px;
