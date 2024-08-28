@@ -31,6 +31,8 @@
 
 }
 
+.cabecalho--botao{}
+
 .cabecalho--botao:checked ~ .lista-menu{
 
  display: block;
