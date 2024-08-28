@@ -33,7 +33,7 @@
 
 .cabeclho--botao:checked ~ .lista-menu{
 
- background-image: url(../img/barra.png);
+ display: block;
 
 }
 
