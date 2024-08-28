@@ -18,6 +18,7 @@ background-color: black;
 color:var(--cor--de--fonte);
 font-size: 16px;
 margin: 10px;
+
 }
  .banner-titulo{
   margin-top: 16px;
@@ -27,8 +28,7 @@ margin: 10px;
 
  .container-principal{
    
-  background-image:url(img/barra.png);
+  width: 10px;
 
 
  }
- 
