@@ -35,6 +35,7 @@
    display: block;
 }
 
-.cabecalho--botao{
-   display: none;
+.container__botao{
+  background-image: url(../img/barra.png);
+
 }
