@@ -33,9 +33,9 @@
 
 .cabeclho--botao:checked ~ .lista-menu{
    display: block;
+ background-image: url(../img/barra.png);
 }
 
 .container__botao{
-  background-image: url(../img/barra.png);
 
 }
